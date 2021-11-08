@@ -1,19 +1,18 @@
 # SEO Values
-title: Dracula GitHub Pages
-tagline: The renowned dark theme for ...
-description: The renowned dark theme for ...
+title: Studio Pijin
+tagline: My name is Pijin. I’m a washed up furry artist sometimes.
+description: My name is Pijin. I’m a washed up furry artist sometimes.
 url: https://dracula.github.io/gh-pages/
-twitter: https://twitter.com/zenorocha
-logo: https://draculatheme.com/static/icons/pack-1/045-dracula.svg
+twitter: https://twitter.com/StudioPijin
+logo: https://twitter.com/StudioPijin/photo
 
 # Google Analytics ID
 google_analytics:
 
 # GitHub Values
 github:
-  owner_name: Dracula
-  owner_url: https://github.com/dracula
-  repository_url: https://github.com/dracula/gh-pages
+  owner_name: Studio Pijin
+  owner_url: https://github.com/StudioPijin
 
 show_downloads: true
 show_header: true
