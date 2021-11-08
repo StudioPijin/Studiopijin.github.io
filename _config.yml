@@ -2,7 +2,7 @@
 title: Studio Pijin
 tagline: My name is Pijin. I’m a washed up furry artist sometimes.
 description: My name is Pijin. I’m a washed up furry artist sometimes.
-url: https://dracula.github.io/gh-pages/
+url: https://github.com/StudioPijin
 twitter: https://twitter.com/StudioPijin
 logo: https://twitter.com/StudioPijin/photo
 
@@ -17,6 +17,8 @@ github:
 show_downloads: true
 show_header: true
 remote_theme: "dracula/gh-pages"
+icon: icon_400.jpg
+colorspace: pink
 
 sass:
     style: compressed
