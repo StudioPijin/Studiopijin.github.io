@@ -18,7 +18,6 @@ show_downloads: true
 show_header: true
 remote_theme: "dracula/gh-pages"
 icon: icon_400.jpg
-colorspace: pink
 
 sass:
     style: compressed
